@@ -143,22 +143,6 @@ banking_system/
 └── main.py              # Main application file
 ```
 
-## Contributing
-
-Feel free to contribute to this project by:
-1. Forking the repository
-2. Creating a feature branch
-3. Committing your changes
-4. Pushing to the branch
-5. Creating a Pull Request
-
-## Best Practices
-
-1. Always use the provided security features
-2. Regularly monitor transaction patterns
-3. Implement proper error handling
-4. Maintain thread safety
-5. Follow the priority queue guidelines
 
 ## Error Handling
 
