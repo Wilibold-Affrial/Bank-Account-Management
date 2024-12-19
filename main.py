@@ -2,10 +2,10 @@ import streamlit as st
 import hashlib
 import time
 
-from hashtable import HashTable
-from bst import BankAccount, BankAccountBST
-from priority_queue import TransactionProcessor
-from graph import TransactionGraph
+from data_structures.hashtable import HashTable
+from data_structures.bst import BankAccount, BankAccountBST
+from data_structures.priority_queue import TransactionProcessor
+from data_structures.graph import TransactionGraph
 from datetime import datetime
 
 # Initialize session state
