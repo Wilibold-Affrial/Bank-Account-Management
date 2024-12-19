@@ -1,4 +1,4 @@
-# Banking System
+# Bank Account Management
 
 A secure and efficient banking system implementation using various data structures and algorithms. This project demonstrates the practical application of fundamental computer science concepts in a real-world scenario.
 

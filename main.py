@@ -47,7 +47,7 @@ def register_user(username, password):
     return True
 
 def create_login_page():
-    st.title("Banking System Login")
+    st.title("Banking Management Login")
     
     with st.form("login_form"):
         username = st.text_input("Username")
